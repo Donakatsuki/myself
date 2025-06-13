@@ -29,9 +29,9 @@ function addMessage(message, className) {
 function getBotResponse(userMessage) {
     // Define responses
     const responses = {
-        "hi": "Hello! How can I assist you today?",
-        "how are you": "I'm just a bot, but I'm doing well. How about you?",
-        "what is your name": "I don't have a name, but you can call me ChatBot.",
+        "hi": "sollu da",
+        "enna panra":"unna enna venam",
+        "va mame ": "vaaya semma.",
         "bye": "Goodbye! Have a great day!",
         "who created you": "I was created by Marieswaran. Here are some links where you can learn more about them: Instagram: @maries__08, LinkedIn: [Marieswaran](https://www.linkedin.com/in/marieswaran-m).",
         "who create you": "I was created by Marieswaran. Here are some links where you can learn more about them: Instagram: @maries__08, LinkedIn: [Marieswaran](https://www.linkedin.com/in/marieswaran-m).",
